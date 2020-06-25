@@ -1,4 +1,4 @@
-# Neural Network from Scratch
+# Neural Network - coding implementation 
  ## Coding a nerual network from scratch using simple python functions
  ## Implements sigmoid and softmax activation functions
  ## Updates weights through stocastic gradient decent
